@@ -3,5 +3,9 @@
 
 !/app
 /app/*
-!/app/code/EW/Core
+!/app/design
+/app/design/adminhtml
+/app/design/frontend/Magento
 !/app/design/frontend/EW/one
+
+!/app/code/EW/Core
