@@ -1,0 +1,26 @@
+
+& when (@media-common = true) {
+    .featured-products .product-cards .product-card {
+        &:hover {
+            background-color: #D1BFA8;
+            color: @color-white;
+
+            .product-description {
+                opacity: 1;
+            }
+
+            .price-box {
+                .price {
+                    opacity: 1;
+                }
+            }
+
+            .product-actions {
+                .action {
+                    border-color: transparent;
+                    color: #252525;
+                }
+            }
+        }
+    }
+}
