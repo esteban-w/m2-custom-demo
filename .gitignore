@@ -1,0 +1,7 @@
+/*
+!.gitignore
+
+!/app
+/app/*
+!/app/code/EW/Core
+!/app/design/frontend/EW/one
