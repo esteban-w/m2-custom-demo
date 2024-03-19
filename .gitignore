@@ -1,5 +1,6 @@
 /*
 !.gitignore
+!README.md
 
 !/app
 /app/*
@@ -7,5 +8,6 @@
 /app/design/adminhtml
 /app/design/frontend/Magento
 !/app/design/frontend/EW/one
+!/app/design/frontend/EW/two
 
 !/app/code
