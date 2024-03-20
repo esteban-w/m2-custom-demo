@@ -3,7 +3,7 @@ This is the content of a Module and Themes for a Magento 2 demo project.
 
 ## Dependencies
 * A fresh local installation of the latest Magento 2 Community version, 
-which at the moment of writing this code is v.2.4.6-p4
+which at the moment of creating this demo project is v.2.4.6-p4
 
 ## Common Usage
 
