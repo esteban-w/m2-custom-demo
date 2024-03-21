@@ -12,10 +12,7 @@ You can easily install this code via Composer:
 1. First, with your local Magento installation running, cd into your Magento's root directory and run:
 `composer require ew/magento2-module-demo`, after running make sure you get a success message, otherwise please refer 
 to the **Installing Manually** instruction below.
-2. Then, right after you run that command it is necessary that you refresh the storefront homepage 
-and login into your admin area, that allows the themes included to get automatically registered 
-and added to the database.
-3. Finally, from your Magento's root directory run: `bin/magento setup:upgrade` so the new included module gets 
+2. Then, from your Magento's root directory run: `bin/magento setup:upgrade` so the new included module gets 
 registered and all its setup patches with automated processes and configurations are performed. After running 
 make sure you get a success message, otherwise please refer to the **Installing Manually** instruction below.
 
