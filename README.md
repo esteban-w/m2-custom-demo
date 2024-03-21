@@ -24,10 +24,8 @@ and then copy to your local Magento installation the following directories:
 * `app/design/frontend/EW/`.
 * `app/code/EW/`.
 
-After copying those files:
-1. First, with your local Magento installation running, refresh the storefront homepage and login into your admin area, 
-that allows the themes included to get automatically registered and added to the database.
-2. Then, run `bin/magento setup:upgrade` so the new included module gets registered and 
+After copying all files, with your local Magento installation running, cd into your Magento's root directory and run 
+`bin/magento setup:upgrade` so the new included module gets registered and 
 all its setup patches with automated processes and configurations are performed.
 
 After taking those steps you should find on your local Magento installation:
