@@ -33,8 +33,8 @@ After taking those steps you should find on your local Magento installation:
 * Two store views, the default store view and an "AT Store View", 
 these store views should display all text using the 'Quicksand' font which is set in the custom theme.
   (If you notice that is not the case, it means that the custom themes need to be set via the admin, 
-please go to admin **Content > Design > Configuration** and then set the "Theme One" globally 
-and "Theme Two" to the "AT Store View").
+please go to admin **Content > Design > Configuration** and then set the "One Theme" globally 
+and "Two Theme" to the "AT Store View").
 * A new block on the storefront homepage showing only "Featured" products, which can be added to the cart 
 using the product's card "Add To Cart" button.
 * When hovering over each product card of the "Featured" products you should get a gray background color,
